@@ -1,0 +1,9 @@
+gece gündüz modu              ---------------    ok 
+bloc cubit ile sepet kontrolü ---------------    ok
+
+
+sepete ekleyince bildirim çıksın ---------------  ok
+
+ve sepet + olsun.    ---------------  ok
+
+bildirim ve sipariş tamamla butonu olcak butona tıklayınca bildirim at -------- ok

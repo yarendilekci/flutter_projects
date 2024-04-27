@@ -1,0 +1,11 @@
+{
+  "helloWorld": "Hello World!",
+  "@helloWorld": {
+    "description": "The conventional newborn programmer greeting"
+  },
+  "productTitle":"Products",
+  "productBottomHeader": "Ürünler",
+  "favoriBottomHeader": "Favorilerim",
+  "accountBottomHeader": "Hesabım",
+  "addBox": "Sepete Ekle"
+}

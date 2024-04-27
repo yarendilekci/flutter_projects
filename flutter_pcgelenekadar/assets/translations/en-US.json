@@ -1,0 +1,12 @@
+{
+    "account": "Account",
+    "productTitle":"Products",
+    "productBottomHeader": "Products",
+    "favoriBottomHeader": "Favorites",
+    "accountBottomHeader": "My Account",
+    "addBox": "Add to Box",
+    "username":"Username",
+    "Darktheme":"Dark Theme",
+    "editAccountInfo":"Edit Account Info",
+    "logOut":"Log Out"
+  }
